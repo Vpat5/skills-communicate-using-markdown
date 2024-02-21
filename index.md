@@ -7,3 +7,7 @@ According to all known laws of aviation,
 ###### Ooh, black and yellow!
 
 ![Image of Barry Bee Benson](https://github.com/Vpat5/skills-communicate-using-markdown/assets/103082376/f70713a0-edb7-45e7-999e-4c1a5f13726f)
+
+``` javascript
+var barryVar = "Bee, Benson!";
+```
