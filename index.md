@@ -11,3 +11,6 @@ According to all known laws of aviation,
 ``` javascript
 var barryVar = "Bee, Benson!";
 ```
+- [ ] Barry
+- [ ] Bee
+- [ ] Benson
